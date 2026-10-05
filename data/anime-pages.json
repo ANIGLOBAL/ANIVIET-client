@@ -18246,91 +18246,6 @@
       }
     ]
   },
-  "sfw/anime/universal/mirai-nikki/phan-1/phan-2/": {
-    "kind": "entry",
-    "episodes": [
-      {
-        "num": "1",
-        "title": "Mirai Nikki: Redial",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=a8b0e304"
-      }
-    ]
-  },
-  "sfw/anime/universal/mashle/phan-1/phan-2/": {
-    "kind": "entry",
-    "episodes": [
-      {
-        "num": "1",
-        "title": "Mashle 2nd Season",
-        "url": "https://embed18.streamc.xyz/embed.php?hash=85af063"
-      }
-    ]
-  },
-  "sfw/nsfw/anime/universal/ishuzoku-reviewers/": {
-    "kind": "entry",
-    "episodes": [
-      {
-        "num": "1",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=00158693898912d309c6e2a96e3939c0",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "2",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=ce803089215105fdbb017be5148982ee",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "3",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=adb72e27960431240fcdc4884f507496",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "4",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=b49703196f21b060a1d187d238d5c7f3",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "5",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=bb66400a4fd48149fac802838101b602",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "6",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=8724e777154a3cf8d1a2b7ca3361f447",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "7",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=522dbe59dbe4d8d86f95c4eb6911cd39",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "8",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=3320883ec3a57fe60a2408af307df386",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "9",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=23920cb4dc02082bf40102a103607e8e",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "10",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=f4bf08e8877d72217e2d72494e6aee70",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "11",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=2195d3f57412434c58529e11065b41c0",
-        "server": "Vietsub #1"
-      },
-      {
-        "num": "12",
-        "url": "https://embed1.streamc.xyz/embed.php?hash=a51b1529b3313ec87edf76b0d18192dd",
-        "server": "Vietsub #1"
-      }
-    ]
-  },
   "sfw/anime/universal/jojo/steel-ball-run-2nd-3rd-stage/": {
     "title": "Steel Ball Run 2nd-3rd Stage - ANIVIETDB",
     "episodes": [
@@ -18634,43 +18549,6 @@
       {
         "num": "12",
         "url": "https://embed1.streamc.xyz/embed.php?hash=9f10c19a13f302bdc1a118d374e2e050"
-      }
-    ]
-  },
-  "sfw/anime/universal/marika-chan-no-koukando/": {
-    "title": "Marika's Love Meter Malfunction - ANIVIETDB",
-    "episodes": [
-      {
-        "num": "1",
-        "url": "https://embed12.streamc.xyz/embed.php?hash=c64be691b9209f373680e7230e8da88f"
-      },
-      {
-        "num": "2",
-        "url": "https://embed13.streamc.xyz/embed.php?hash=74ec11d0d6e806967e93aa392974be04"
-      },
-      {
-        "num": "3",
-        "url": "https://embed14.streamc.xyz/embed.php?hash=0df763006cc620436fd28d614952aa99"
-      },
-      {
-        "num": "4",
-        "url": "https://embed15.streamc.xyz/embed.php?hash=473bbf6198f3467fa9b53c66478d24f3"
-      },
-      {
-        "num": "5",
-        "url": "https://embed15.streamc.xyz/embed.php?hash=dd750f9af1da34fd830e58a89f49d88e"
-      },
-      {
-        "num": "6",
-        "url": "https://embed18.streamc.xyz/embed.php?hash=443ad7527f0217e63161f4927e120871"
-      },
-      {
-        "num": "7",
-        "url": "https://embed14.streamc.xyz/embed.php?hash=6d21468dc52ce4f3f68d9ba8e8e1d4bd"
-      },
-      {
-        "num": "8",
-        "url": "https://embed14.streamc.xyz/embed.php?hash=0dced5be22f573aacc519ec3d7fa09ad"
       }
     ]
   },
@@ -19445,5 +19323,42 @@
       }
     ],
     "kind": "entry"
+  },
+  "nsfw/anime/universal/marika-chan-no-koukando/": {
+    "title": "Marika's Love Meter Malfunction - ANIVIETDB",
+    "episodes": [
+      {
+        "num": "1",
+        "url": "https://embed12.streamc.xyz/embed.php?hash=c64be691b9209f373680e7230e8da88f"
+      },
+      {
+        "num": "2",
+        "url": "https://embed13.streamc.xyz/embed.php?hash=74ec11d0d6e806967e93aa392974be04"
+      },
+      {
+        "num": "3",
+        "url": "https://embed14.streamc.xyz/embed.php?hash=0df763006cc620436fd28d614952aa99"
+      },
+      {
+        "num": "4",
+        "url": "https://embed15.streamc.xyz/embed.php?hash=473bbf6198f3467fa9b53c66478d24f3"
+      },
+      {
+        "num": "5",
+        "url": "https://embed15.streamc.xyz/embed.php?hash=dd750f9af1da34fd830e58a89f49d88e"
+      },
+      {
+        "num": "6",
+        "url": "https://embed18.streamc.xyz/embed.php?hash=443ad7527f0217e63161f4927e120871"
+      },
+      {
+        "num": "7",
+        "url": "https://embed14.streamc.xyz/embed.php?hash=6d21468dc52ce4f3f68d9ba8e8e1d4bd"
+      },
+      {
+        "num": "8",
+        "url": "https://embed14.streamc.xyz/embed.php?hash=0dced5be22f573aacc519ec3d7fa09ad"
+      }
+    ]
   }
 }
